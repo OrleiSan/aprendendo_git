@@ -1,0 +1,14 @@
+O Git é uma ferramenta fantástica
+Um resumo do que aprendi nessa ferramenta é que os projetos podem ser compartilhados e distribuidos para toda a equipe que 
+estiver empenhada no projeto. 
+Os principais comandos do Git são: 
+git config --global user.name
+git config --global user.email "email@email.com"
+git config list --list
+git add .
+git commit -m "nome commit"
+git clone
+git pull
+git push
+git branch
+git merge
